@@ -16,6 +16,19 @@ app.use(express.json());
 // copy 6 command and paste it in your project terminal,,,okk ? 
 // type : ctrl + j  for open terminal in vs code, 
 // check the files path: okkk? 
+// just copy and paste, 6 command, 
+// and carefull in 2nd command, you should change the "your-repo-name" to your new repo name, okkk?
+
+
+//  then if you write new code in this project, then you should push it to github,
+//  for push code to github, you should write 3 command in terminal,
+// 1st command: git add .
+// 2nd command: git commit -m "your commit message"
+// 3rd command: git push     
+
+//  if you want to pull code from github, you should write 1 command in terminal,
+// git pull origin main
+
 
 
 // API :
